@@ -5,4 +5,4 @@ Features :
 - Responsive design
 - Clean interface
 
-visit :https://saklenrs-csengr.github.io/Job-Application-Form/
+Visit :https://saklenrs-csengr.github.io/Job-Application-Form/
